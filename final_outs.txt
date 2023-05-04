@@ -1,60 +1,90 @@
+4.615078873671779
+5.342601688275138
+3.386548312620952
 ================================================================
 Average original size: 349243.00 bytes
 Average compressed size: 726.33 bytes
 With compression rate:0.00
 Average PSNR:13.34
-Time taken: 0.0166 seconds
+Time taken: 0.0252 seconds
+30.42009643634458
+28.04362027108049
+32.74541557265653
 ================================================================
 Average original size: 349243.00 bytes
 Average compressed size: 132463.33 bytes
 With compression rate:0.10
 Average PSNR:91.21
-Time taken: 0.0195 seconds
+Time taken: 0.0223 seconds
+34.08615223713837
+32.958094192918374
+38.69692339801
 ================================================================
 Average original size: 349243.00 bytes
 Average compressed size: 143868.00 bytes
 With compression rate:0.20
 Average PSNR:105.74
-Time taken: 0.0196 seconds
+Time taken: 0.0438 seconds
+35.93910870158397
+36.593590957378936
+40.1738063011403
 ================================================================
 Average original size: 349243.00 bytes
 Average compressed size: 148110.33 bytes
 With compression rate:0.30
 Average PSNR:112.71
-Time taken: 0.0214 seconds
+Time taken: 0.0207 seconds
+42.08308432699798
+38.923744098341814
+40.337929957981906
 ================================================================
 Average original size: 349243.00 bytes
 Average compressed size: 150352.33 bytes
 With compression rate:0.40
 Average PSNR:121.34
-Time taken: 0.0213 seconds
+Time taken: 0.0169 seconds
+46.15262714091973
+42.597282289586296
+40.34968873151827
 ================================================================
 Average original size: 349243.00 bytes
 Average compressed size: 151409.00 bytes
 With compression rate:0.50
 Average PSNR:129.10
-Time taken: 0.0215 seconds
+Time taken: 0.0212 seconds
+48.59613202255684
+45.28213681451487
+40.34358475590654
 ================================================================
 Average original size: 349243.00 bytes
 Average compressed size: 153052.33 bytes
 With compression rate:0.60
 Average PSNR:134.22
-Time taken: 0.0231 seconds
+Time taken: 0.0224 seconds
+51.12095546262121
+48.88933157703705
+40.34386051909517
 ================================================================
 Average original size: 349243.00 bytes
 Average compressed size: 154750.67 bytes
 With compression rate:0.70
 Average PSNR:140.35
-Time taken: 0.0289 seconds
+Time taken: 0.0213 seconds
+51.14147099141843
+50.933428534309726
+40.34382742658799
 ================================================================
 Average original size: 349243.00 bytes
 Average compressed size: 155892.00 bytes
 With compression rate:0.80
 Average PSNR:142.42
-Time taken: 0.0213 seconds
+Time taken: 0.0521 seconds
+51.135406105866885
+51.140739106178046
+40.345570641800734
 ================================================================
 Average original size: 349243.00 bytes
 Average compressed size: 156788.67 bytes
 With compression rate:0.90
 Average PSNR:142.62
-Time taken: 0.0179 seconds
+Time taken: 0.0188 seconds
