@@ -1,0 +1,60 @@
+================================================================
+Average original size: 349243.00 bytes
+Average compressed size: 726.33 bytes
+With compression rate:0.00
+Average PSNR:13.34
+Time taken: 0.0166 seconds
+================================================================
+Average original size: 349243.00 bytes
+Average compressed size: 132463.33 bytes
+With compression rate:0.10
+Average PSNR:91.21
+Time taken: 0.0195 seconds
+================================================================
+Average original size: 349243.00 bytes
+Average compressed size: 143868.00 bytes
+With compression rate:0.20
+Average PSNR:105.74
+Time taken: 0.0196 seconds
+================================================================
+Average original size: 349243.00 bytes
+Average compressed size: 148110.33 bytes
+With compression rate:0.30
+Average PSNR:112.71
+Time taken: 0.0214 seconds
+================================================================
+Average original size: 349243.00 bytes
+Average compressed size: 150352.33 bytes
+With compression rate:0.40
+Average PSNR:121.34
+Time taken: 0.0213 seconds
+================================================================
+Average original size: 349243.00 bytes
+Average compressed size: 151409.00 bytes
+With compression rate:0.50
+Average PSNR:129.10
+Time taken: 0.0215 seconds
+================================================================
+Average original size: 349243.00 bytes
+Average compressed size: 153052.33 bytes
+With compression rate:0.60
+Average PSNR:134.22
+Time taken: 0.0231 seconds
+================================================================
+Average original size: 349243.00 bytes
+Average compressed size: 154750.67 bytes
+With compression rate:0.70
+Average PSNR:140.35
+Time taken: 0.0289 seconds
+================================================================
+Average original size: 349243.00 bytes
+Average compressed size: 155892.00 bytes
+With compression rate:0.80
+Average PSNR:142.42
+Time taken: 0.0213 seconds
+================================================================
+Average original size: 349243.00 bytes
+Average compressed size: 156788.67 bytes
+With compression rate:0.90
+Average PSNR:142.62
+Time taken: 0.0179 seconds
